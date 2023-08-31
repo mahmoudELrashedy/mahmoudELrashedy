@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **embedded system programming**
 
-- 👯 I’m looking to collaborate on **AutoSAR developing**
+- 👯 I’m looking to collaborate in **AutoSAR developing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahmoudELrashedy](https://github.com/mahmoudELrashedy)
 
